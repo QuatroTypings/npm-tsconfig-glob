@@ -7,8 +7,8 @@ tsconfig(null, (err) => {
 
 tsconfig({
 	configPath: '.',
-	cwd: process.cwd(),
 	indent: 2,
+	async: false
 }, function(err) {
     console.error(err);
 });
