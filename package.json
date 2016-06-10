@@ -17,9 +17,9 @@
   "author": "Giedrius Grabauskas <https://github.com/GiedriusGrabauskas>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/QuatroTypings/npm-gulp/issues"
+    "url": "https://github.com/QuatroTypings/npm-tsconfig-glob/issues"
   },
-  "homepage": "https://github.com/QuatroTypings/npm-gulp",
+  "homepage": "https://github.com/QuatroTypings/npm-tsconfig-glob",
   "devDependencies": {
     "typescript": "^1.8.10",
     "typings": "^1.0.4"
